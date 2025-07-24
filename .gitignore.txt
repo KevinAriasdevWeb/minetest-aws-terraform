@@ -5,24 +5,4 @@
 *.tfplan
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl # Puede ser útil subirlo si trabajas en equipo para fijar versiones de proveedores,
-                    # pero si solo eres tú o tienes problemas, puedes ignorarlo.
-                    # Para este caso, es mejor no subirlo por si las moscas, si estás empezando.
-
-# Crash log files
-crash.log
-
-# Local override file for sensitive variables (contains API keys, etc.)
-*.tfvars
-*.tfvars.json
-
-# Specific private key files
-*.pem
-*.cer
-*.key
-
-# macOS specific files
-.DS_Store
-
-# Windows specific files
-Thumbs.db
+.terraform.lock.hcl
