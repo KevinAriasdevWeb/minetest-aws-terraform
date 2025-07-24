@@ -1,8 +1,0 @@
-# .gitignore
-
-# Terraform generated files
-.terraform/
-*.tfplan
-*.tfstate
-*.tfstate.*
-.terraform.lock.hcl
