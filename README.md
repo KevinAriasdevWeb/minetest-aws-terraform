@@ -70,4 +70,4 @@ terraform destroy
 
 ## 🧠 Créditos
 
-Creado por Kevin “EnYken” con apoyo de ChatGPT.
+Creado por Kevin
